@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Usage
 
 ```bash
@@ -26,3 +27,7 @@ Your app is ready to be deployed!
 ## Deployment
 
 Learn more about deploying your application with the [documentations](https://vite.dev/guide/static-deploy.html)
+=======
+# solid-tic-tac-toe
+simple Tic Tac Toe Game build using Solid  
+>>>>>>> e7cbc6a2a04322b4d51a7fec7d8b77b7b37b6ef1
